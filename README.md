@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Coding Leaderboard
 
 A MERN stack website that ranks users by total solved questions across coding platforms. The backend refreshes platform stats on an interval, recalculates ranks, and pushes updates to the React UI with Socket.IO.
@@ -58,3 +59,6 @@ In production, Express serves the built React app from `dist/`, so `VITE_API_URL
 ## Notes
 
 Some coding sites restrict scraping or do not expose solved-count APIs. For production, add official OAuth/API integrations where available, cache aggressively, and respect each platform's terms.
+=======
+# coder_ground
+>>>>>>> e77d832c77940083973595614ce9a15fe827bfc2
